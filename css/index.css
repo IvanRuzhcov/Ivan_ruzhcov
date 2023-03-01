@@ -1,0 +1,98 @@
+body {
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+.tabl {
+  text-align: end;
+  background-color: #060202;
+  width: 100%;
+  height: 100%;
+  padding: 1%;
+}
+a {
+  text-decoration: none;
+  margin-left: 50px;
+  color: rgb(9, 120, 175);
+  text-shadow: #e21e1e;
+}
+.logo-nach {
+  width: 60px;
+  height: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 6em;
+}
+.etoi img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 39%;
+  margin-top: 100px;
+  /* border: 2px solid #000000; */
+  border: 1px solid #fff;
+  box-shadow: 0 0 20px #555555;
+}
+.foto1 {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 90%;
+}
+.fotow {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 180%;
+}
+h3 {
+  text-align: center;
+  color: rgb(3, 214, 252);
+}
+.tablis {
+  margin-left: 50%;
+  width: 1000px;
+  height: px;
+}
+
+.text {
+  text-align: center;
+  width: 200px;
+  height: 60px;
+  margin-left: 23%;
+  color: #73ce18;
+  border-bottom: 1px solid #73ce18;
+}
+.text1 {
+  text-align: center;
+  width: 200px;
+  height: 60px;
+  margin-left: 63%;
+  margin-top: -77px;
+  color: rgb(137, 140, 150);
+  border-bottom: 1px solid #25037b;
+}
+.kontact {
+  color: #330867;
+}
+.header {
+  background-color: #060202;
+}
+.div div {
+  text-align: center;
+  width: 450px;
+  height: 170px;
+  border: 1px solid #000000;
+  box-shadow: 0 0 40px #25037b;
+  border-radius: 20%;
+  margin-left: 35%;
+  margin-top: 30px;
+  color: #73ce18;
+}
+.div p {
+  color: #ebcc66;
+}
+.h3_help {
+  margin-bottom: 50px;
+}
+.vk_inst div {
+  margin-left: 41%;
+}
